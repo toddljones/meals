@@ -4,7 +4,7 @@
 
 - Trip: 2 nights, arriving Saturday evening and leaving Monday mid-morning.
 - Group: 10 people. Two families of 4 plus Mom and Dad. Four kids, ages 5-11.
-- Current phase: grocery list created and ready for review.
+- Current phase: person-specific grocery list created and ready for review.
 - Meal plan: finalized.
 
 ## Decisions And Working Meal Ideas
@@ -49,6 +49,8 @@
 - Lemon-lime (yellow) Gatorade
 - Blue Gatorade
 - Sparkling water cans
+- Beer
+- Wine
 
 ## Completed
 
@@ -58,8 +60,11 @@
 - Confirmed the ranch house has a grill.
 - Finalized the meal plan.
 - Created the grocery list in GROCERYLIST.md.
+- Grouped the grocery list by Travis, G, and Todd based on meal assignments.
 
 ## Grocery List Notes
 
 - Quantities in GROCERYLIST.md are a practical baseline for 10 people.
 - Check pantry and ranch-house supplies before shopping for condiments, coffee supplies, foil, and cooking basics.
+- Meal assignments: Travis is responsible for Saturday dinner, Sunday breakfast, and Monday breakfast. G is responsible for Saturday evening snacks and Sunday afternoon snacks. Todd is responsible for Sunday lunch, Sunday dinner, and throughout-the-trip drinks and snacks.
+- GROCERYLIST.md is grouped by person. Each shared item is assigned to one buyer only to avoid duplicate purchases.

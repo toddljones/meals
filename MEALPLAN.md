@@ -9,14 +9,14 @@
 
 ## Saturday
 
-### Dinner: Burgers and Hot Dogs
+### Dinner: Burgers and Hot Dogs (Travis)
 
 - Burgers and hot dogs
 - Buns and basic toppings
 - Chips
 - Cut fruit or an easy fruit tray
 
-### Evening Snacks
+### Evening Snacks (G)
 
 - Popcorn
 - Chocolate chip cookies
@@ -26,7 +26,7 @@
 
 ## Sunday
 
-### Breakfast: Make-Your-Own Breakfast Tacos
+### Breakfast: Make-Your-Own Breakfast Tacos (Travis)
 
 - Scrambled eggs
 - Tortillas
@@ -35,7 +35,7 @@
 - Salsa and optional hot sauce
 - Fruit
 
-### Lunch: Sandwich Bar
+### Lunch: Sandwich Bar (Todd)
 
 - Turkey and provolone sandwiches
 - Peanut butter and jelly option for kids
@@ -43,14 +43,14 @@
 - Chips
 - Carrots, cucumbers, or fruit
 
-### Afternoon Snacks
+### Afternoon Snacks (G)
 
 - Kid-friendly grab-and-go snacks
 - Fruit
 - Carrots and cucumbers
 - Optional cheese sticks
 
-### Dinner: Taco Bar
+### Dinner: Taco Bar (Todd)
 
 - Seasoned ground beef
 - Fajita chicken with onions and bell peppers
@@ -63,7 +63,7 @@
 
 ## Monday
 
-### Breakfast: Easy Departure Breakfast
+### Breakfast: Easy Departure Breakfast (Travis)
 
 - Bagels or muffins
 - Eggo waffles
@@ -72,7 +72,7 @@
 - Fruit
 - Optional leftover breakfast taco ingredients
 
-## Throughout the Trip
+## Throughout the Trip (Todd)
 
 - Coffee and breakfast drinks
 - Water
@@ -80,6 +80,8 @@
 - Lemon-lime (yellow) and blue Gatorade
 - Sparkling water cans
 - Extra snacks for grazing between meals
+- Beer
+- Wine
 
 ## Finalized Decisions
 

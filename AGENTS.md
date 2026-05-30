@@ -40,7 +40,10 @@ drink ideas:
 - lemon-lime (yellow) Gatorade
 - blue Gatorade
 - sparkling water cans
+- beer
+- wine
 
 status:
 - meal plan finalized.
-- grocery list created.
+- grocery list created and grouped by person based on the meal assignments in MEALPLAN.md.
+- shared grocery items should be assigned to one buyer only to avoid duplicate purchases.
