@@ -21,6 +21,7 @@
 
 - Cool Ranch Doritos
 - Nacho Cheese Doritos
+- Cheetos
 - Colored Goldfish
 - Bananas
 - Hubba Bubba gum

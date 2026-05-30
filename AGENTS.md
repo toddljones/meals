@@ -16,6 +16,7 @@ working meal plan ideas:
 snack ideas:
 - cool ranch doritos
 - nacho cheese doritos
+- cheetos
 - colored goldfish
 - bananas
 - hubba bubba gum
