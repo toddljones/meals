@@ -59,7 +59,7 @@
 - Shredded cheese, lettuce, salsa, and sour cream
 - Optional guacamole
 - Black beans or refried beans
-- Easy dessert
+- Easy dessert (same chocolate chip cookies or brownies from Saturday and ice cream)
 
 ## Monday
 
@@ -77,11 +77,12 @@
 - Coffee and breakfast drinks
 - Water
 - Grab-and-go Apple & Eve apple juice boxes
-- Lemon-lime (yellow) and red Gatorade
+- Lemon-lime (yellow) and blue Gatorade
+- Sparkling water cans
 - Extra snacks for grazing between meals
 
-## Decisions Before Building the Grocery List
+## Finalized Decisions
 
-- Choose the Saturday dinner side
-- Confirm any dietary restrictions or strong preferences
-- Confirm they have a grill
+- Saturday dinner sides are chips and fruit.
+- No dietary restrictions or strong preferences.
+- The ranch house has a grill.

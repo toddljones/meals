@@ -1,6 +1,6 @@
 we are taking a trip to a ranch house. 2 nights. arrive saturday evening and leave monday mid-morning. 10 of us. my family of 4. my brothers family of 4. and my mom and dad. 4 kids, aged 5-11.
 
-our objective is to build a meal plan. and a resulting shopping list. we will start with the meal plan then once that is finalized we will build the shopping list.
+our objective is to build a meal plan and a resulting shopping list. the meal plan is finalized and the grocery list is in GROCERYLIST.md.
 
 track status, decisions, todo items, open questions, and other useful working memory in WORKLOG.md. update WORKLOG.md as the plan develops so future work can resume from it.
 
@@ -38,11 +38,9 @@ snack ideas:
 drink ideas:
 - Apple & Eve apple juice boxes
 - lemon-lime (yellow) Gatorade
-- red Gatorade
+- blue Gatorade
+- sparkling water cans
 
-open items:
-- review the meal plan with my brother.
-- ask what snacks and drinks his family likes.
-- confirm any dietary restrictions or strong preferences.
-- confirm the ranch house has a grill.
-- choose the Saturday dinner side.
+status:
+- meal plan finalized.
+- grocery list created.

@@ -4,8 +4,8 @@
 
 - Trip: 2 nights, arriving Saturday evening and leaving Monday mid-morning.
 - Group: 10 people. Two families of 4 plus Mom and Dad. Four kids, ages 5-11.
-- Current phase: build and finalize the meal plan.
-- Next phase: create the shopping list after the meal plan is finalized.
+- Current phase: grocery list created and ready for review.
+- Meal plan: finalized.
 
 ## Decisions And Working Meal Ideas
 
@@ -47,21 +47,19 @@
 
 - Apple & Eve apple juice boxes
 - Lemon-lime (yellow) Gatorade
-- Red Gatorade
+- Blue Gatorade
+- Sparkling water cans
 
-## Todo And Open Items
+## Completed
 
-- Review the draft meal plan with brother.
-- Ask what snacks and drinks his family likes.
-- Confirm any dietary restrictions or strong preferences.
-- Confirm the ranch house has a grill.
-- Choose the Saturday dinner side.
-- Finalize the meal plan before building the shopping list.
+- Reviewed the meal plan with brother.
+- Confirmed snack and drink preferences.
+- Confirmed there are no dietary restrictions or strong preferences.
+- Confirmed the ranch house has a grill.
+- Finalized the meal plan.
+- Created the grocery list in GROCERYLIST.md.
 
-## Brother Review Checklist
+## Grocery List Notes
 
-- Does the meal schedule work for his family?
-- Are there any dietary restrictions, allergies, or strong dislikes?
-- What snacks and drinks would his family like?
-- Does the ranch house have a grill?
-- What side should go with Saturday's burgers and hot dogs?
+- Quantities in GROCERYLIST.md are a practical baseline for 10 people.
+- Check pantry and ranch-house supplies before shopping for condiments, coffee supplies, foil, and cooking basics.
