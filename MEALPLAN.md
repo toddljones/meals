@@ -21,6 +21,7 @@
 - Popcorn
 - Chocolate chip cookies
 - Individual vanilla/chocolate Blue Bell ice cream cups
+- S'mores
 
 ## Sunday
 

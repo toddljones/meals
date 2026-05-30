@@ -27,6 +27,7 @@ snack ideas:
 - salsa
 - individual vanilla/chocolate Blue Bell ice cream cups
 - chocolate chip cookies
+- s'mores
 - carrots
 - cucumbers
 
