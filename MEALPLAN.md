@@ -37,8 +37,9 @@
 
 ### Lunch: Sandwich Bar
 
-- Deli meat and cheese sandwiches
+- Turkey and provolone sandwiches
 - Peanut butter and jelly option for kids
+- Nutella option
 - Chips
 - Carrots, cucumbers, or fruit
 
@@ -65,6 +66,7 @@
 ### Breakfast: Easy Departure Breakfast
 
 - Bagels or muffins
+- Eggo waffles
 - Cream cheese and butter
 - Yogurt
 - Fruit

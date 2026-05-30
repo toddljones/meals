@@ -9,7 +9,8 @@ ideas are scrambled eggs, tortillas, fruit for make your own breakfast tacos. bu
 working meal plan ideas:
 - breakfast tacos: scrambled eggs, tortillas, and fruit.
 - burgers and hot dogs for a dinner.
-- sandwiches for lunch.
+- sandwiches for lunch: turkey and provolone, plus a Nutella option.
+- Eggo waffles for an easy breakfast option.
 - taco bar: include fajita-style grilled chicken with onions and bell peppers, cooked on the grill or in a skillet.
 
 snack ideas:
