@@ -12,6 +12,7 @@ working meal plan ideas:
 - sandwiches for lunch: turkey and provolone, plus a Nutella option.
 - Eggo waffles for an easy breakfast option.
 - taco bar: include fajita-style grilled chicken with onions and bell peppers, cooked on the grill or in a skillet.
+- taco bar: include crunchy taco shells and flour tortillas.
 
 snack ideas:
 - cool ranch doritos

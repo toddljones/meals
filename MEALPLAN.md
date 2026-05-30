@@ -48,14 +48,14 @@
 - Kid-friendly grab-and-go snacks
 - Fruit
 - Carrots and cucumbers
-- Crackers or pretzels
 - Optional cheese sticks
 
 ### Dinner: Taco Bar
 
 - Seasoned ground beef
 - Fajita chicken with onions and bell peppers
-- Tortillas and/or tortilla chips
+- Crunchy taco shells and flour tortillas
+- Tortilla chips
 - Shredded cheese, lettuce, salsa, and sour cream
 - Optional guacamole
 - Black beans or refried beans

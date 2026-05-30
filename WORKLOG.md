@@ -13,7 +13,7 @@
 - Sunday breakfast: breakfast tacos with scrambled eggs, tortillas, breakfast sausage, shredded cheese, salsa, and fruit.
 - Sunday lunch: sandwich bar with turkey and provolone sandwiches, plus peanut butter and jelly and Nutella options for kids.
 - Sunday taco bar: include fajita-style grilled chicken with fajita vegetables (onions and bell peppers), cooked on the grill or in a skillet.
-- Sunday taco bar: also include seasoned ground beef, tortillas and/or tortilla chips, shredded cheese, lettuce, salsa, sour cream, optional guacamole, and beans.
+- Sunday taco bar: also include seasoned ground beef, crunchy taco shells, flour tortillas, tortilla chips, shredded cheese, lettuce, salsa, sour cream, optional guacamole, and beans.
 - Monday breakfast: easy departure breakfast with Eggo waffles, bagels or muffins, cream cheese, butter, yogurt, fruit, and optional leftover breakfast taco ingredients.
 - Dessert: individual vanilla/chocolate Blue Bell ice cream cups, chocolate chip cookies, s'mores, and fudge brownies that can be served with ice cream.
 
