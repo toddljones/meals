@@ -33,6 +33,12 @@
 - Salsa
 - Individual vanilla/chocolate Blue Bell ice cream cups
 - Chocolate chip cookies
+- Carrots
+- Cucumbers
+
+## Family Preferences
+
+- Brother's family likes to snack on carrots and cucumbers. Include them as snack and side options.
 
 ## Drink Ideas
 

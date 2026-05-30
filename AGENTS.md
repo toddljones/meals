@@ -27,6 +27,8 @@ snack ideas:
 - salsa
 - individual vanilla/chocolate Blue Bell ice cream cups
 - chocolate chip cookies
+- carrots
+- cucumbers
 
 drink ideas:
 - Apple & Eve apple juice boxes

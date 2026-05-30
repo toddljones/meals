@@ -38,12 +38,13 @@
 - Deli meat and cheese sandwiches
 - Peanut butter and jelly option for kids
 - Chips
-- Raw vegetables or fruit
+- Carrots, cucumbers, or fruit
 
 ### Afternoon Snacks
 
 - Kid-friendly grab-and-go snacks
 - Fruit
+- Carrots and cucumbers
 - Crackers or pretzels
 - Optional cheese sticks
 
