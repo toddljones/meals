@@ -77,6 +77,6 @@
 
 ## Decisions Before Building the Grocery List
 
-- Choose the Saturday dinner side (black beans and refried beans?)
+- Choose the Saturday dinner side
 - Confirm any dietary restrictions or strong preferences
 - Confirm they have a grill

@@ -33,5 +33,9 @@ drink ideas:
 - lemon-lime (yellow) Gatorade
 - red Gatorade
 
-open item:
-- ask my brother what snacks his family likes.
+open items:
+- review the meal plan with my brother.
+- ask what snacks and drinks his family likes.
+- confirm any dietary restrictions or strong preferences.
+- confirm the ranch house has a grill.
+- choose the Saturday dinner side.

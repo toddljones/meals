@@ -9,10 +9,12 @@
 
 ## Decisions And Working Meal Ideas
 
-- Breakfast tacos: scrambled eggs, tortillas, and fruit.
-- Dinner option: burgers and hot dogs.
-- Lunch option: sandwiches.
+- Saturday dinner: burgers and hot dogs.
+- Sunday breakfast: breakfast tacos with scrambled eggs, tortillas, breakfast sausage, shredded cheese, salsa, and fruit.
+- Sunday lunch: sandwich bar with deli meat and cheese sandwiches plus a peanut butter and jelly option for kids.
 - Sunday taco bar: include fajita-style grilled chicken with fajita vegetables (onions and bell peppers), cooked on the grill or in a skillet.
+- Sunday taco bar: also include seasoned ground beef, tortillas and/or tortilla chips, shredded cheese, lettuce, salsa, sour cream, optional guacamole, and beans.
+- Monday breakfast: easy departure breakfast with bagels or muffins, cream cheese, butter, yogurt, fruit, and optional leftover breakfast taco ingredients.
 - Dessert: individual vanilla/chocolate Blue Bell ice cream cups and chocolate chip cookies.
 
 ## Snack Ideas
@@ -40,6 +42,17 @@
 
 ## Todo And Open Items
 
-- Ask brother what snacks his family likes.
-- Assign meal ideas to specific meals from Saturday dinner through Monday breakfast.
+- Review the draft meal plan with brother.
+- Ask what snacks and drinks his family likes.
+- Confirm any dietary restrictions or strong preferences.
+- Confirm the ranch house has a grill.
+- Choose the Saturday dinner side.
 - Finalize the meal plan before building the shopping list.
+
+## Brother Review Checklist
+
+- Does the meal schedule work for his family?
+- Are there any dietary restrictions, allergies, or strong dislikes?
+- What snacks and drinks would his family like?
+- Does the ranch house have a grill?
+- What side should go with Saturday's burgers and hot dogs?
