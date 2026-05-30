@@ -15,7 +15,7 @@
 - Sunday taco bar: include fajita-style grilled chicken with fajita vegetables (onions and bell peppers), cooked on the grill or in a skillet.
 - Sunday taco bar: also include seasoned ground beef, tortillas and/or tortilla chips, shredded cheese, lettuce, salsa, sour cream, optional guacamole, and beans.
 - Monday breakfast: easy departure breakfast with bagels or muffins, cream cheese, butter, yogurt, fruit, and optional leftover breakfast taco ingredients.
-- Dessert: individual vanilla/chocolate Blue Bell ice cream cups, chocolate chip cookies, and s'mores.
+- Dessert: individual vanilla/chocolate Blue Bell ice cream cups, chocolate chip cookies, s'mores, and fudge brownies that can be served with ice cream.
 
 ## Snack Ideas
 
@@ -34,6 +34,7 @@
 - Individual vanilla/chocolate Blue Bell ice cream cups
 - Chocolate chip cookies
 - S'mores
+- Fudge brownies with ice cream
 - Carrots
 - Cucumbers
 

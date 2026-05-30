@@ -22,6 +22,7 @@
 - Chocolate chip cookies
 - Individual vanilla/chocolate Blue Bell ice cream cups
 - S'mores
+- Fudge brownies with ice cream
 
 ## Sunday
 

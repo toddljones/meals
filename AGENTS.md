@@ -28,6 +28,7 @@ snack ideas:
 - individual vanilla/chocolate Blue Bell ice cream cups
 - chocolate chip cookies
 - s'mores
+- fudge brownies with ice cream
 - carrots
 - cucumbers
 
