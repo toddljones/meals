@@ -65,6 +65,7 @@
 - Created a local `.venv` with `uv venv`.
 - Installed WeasyPrint into `.venv` for Pandoc PDF generation.
 - Generated `GROCERYLIST.pdf` from `GROCERYLIST.md` and `MEALPLAN.pdf` from `MEALPLAN.md` using Pandoc.
+- Added `pdf.css` and regenerated PDFs so grocery-list checkbox boxes align with item text.
 
 ## Grocery List Notes
 
