@@ -61,6 +61,10 @@
 - Finalized the meal plan.
 - Created the grocery list in GROCERYLIST.md.
 - Grouped the grocery list by Travis, G, and Todd based on meal assignments.
+- Started project document export work: create a local Python venv with uv, generate PDFs from GROCERYLIST.md and MEALPLAN.md with pandoc, and push the generated files to GitHub.
+- Created a local `.venv` with `uv venv`.
+- Installed WeasyPrint into `.venv` for Pandoc PDF generation.
+- Generated `GROCERYLIST.pdf` from `GROCERYLIST.md` and `MEALPLAN.pdf` from `MEALPLAN.md` using Pandoc.
 
 ## Grocery List Notes
 
